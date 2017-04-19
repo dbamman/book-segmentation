@@ -29,4 +29,4 @@ This should output a list of page numbers and labels for all pages in book.zip.
 
 ## Dependencies
 
-Numpy (`pip install numpy --user`) and [Tensorflow 1.0](https://www.tensorflow.org/install/)
+Numpy (`pip install numpy --user`), scipy (`pip install scipy --user`) and [Tensorflow 1.0](https://www.tensorflow.org/install/)
