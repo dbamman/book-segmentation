@@ -13,10 +13,6 @@ Code and trained models to segment the document structure of printed books and l
 * Index
 * N/A
 
-Data, categorization system, and models described in more detail here:
-
-Lara McConnaughey, Jennifer Dai and David Bamman (2017), The Labeled Segmentation of Printed Books (in submission)
-http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/book_segmentation.pdf
 
 This model makes use of data from Ted Underwood's [DataMunging repo](https://github.com/tedunderwood/DataMunging)
 
