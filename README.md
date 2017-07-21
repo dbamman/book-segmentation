@@ -1,6 +1,6 @@
 # book-segmentation
 
-Code and trained models to segment the document structure of printed books and label each segment according to ten categories:
+Data, code and trained models to segment the document structure of printed books and label each segment according to ten categories:
 
 * Title page (including half titles)
 * Ad card (advertisements)
